@@ -1,0 +1,33 @@
+
+
+
+.row{
+    display: flex;
+}
+
+.coloumn{
+    border: 2px solid grey;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    background-color:beige;
+}
+
+.page{
+    background-color: lightgreen;
+}
+
+.mgbtn{
+    background-color: brown;
+    color: rgb(203, 155, 155);
+}
+
+.rlbbtn{
+    background-color: yellowgreen;
+    color:darkgreen;
+}
+
+.scbbtn{
+    background-color: palevioletred;
+    color: rebeccapurple;
+}
